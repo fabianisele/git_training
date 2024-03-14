@@ -1,3 +1,4 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago. 
 Now I'm part of a new branch.
 I'm happy to be here.
+New text.
